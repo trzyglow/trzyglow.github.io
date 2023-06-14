@@ -12,12 +12,12 @@
   body {
     background: Black ;
     display: flex;
-    align-items: center;
+    align-items: stretch;
     justify-content: center;
   }
 
   canvas {
-    border: 2mm ridge #7FFFD4;
+    border: 3mm ridge #7FFFD4;
   }
 
   </style>
@@ -25,7 +25,12 @@
 <body>
 <canvas width="320" height="640" id="game"></canvas>
 <script>
-// https://tetris.fandom.com/wiki/Tetris_Guideline
+
+// Refresh Button logic
+function refresh(){
+  window.top.location = window.top.location
+  return false;
+}
 
 // get a random integer between the range of [min,max]
 // @see https://stackoverflow.com/a/1527820/2124254
@@ -148,7 +153,7 @@ function showGameOver() {
 
   context.globalAlpha = 1;
   context.fillStyle = 'white';
-  context.font = '36px monospace';
+  context.font = '50px monospace';
   context.textAlign = 'center';
   context.textBaseline = 'middle';
   context.fillText('GAME OVER!', canvas.width / 2, canvas.height / 2);
@@ -249,8 +254,8 @@ function loop() {
   // draw the active tetromino
   if (tetromino) {
 
-    // tetromino falls every 35 frames
-    if (++count > 35) {
+    // tetromino falls every 20 frames
+    if (++count > 20) {
       tetromino.row++;
       count = 0;
 
@@ -312,17 +317,33 @@ document.addEventListener('keydown', function(e) {
     tetromino.row = row;
   }
 });
-// start the game
+// game start & side stuff
 rAF = requestAnimationFrame(loop);
 </script>
-</body>
 </body> 
+<footer>
 </script>
 </audio>
 </body>
-<audio controls loop autoplay>
-  <source src="https://github.com/trzyglow/Webtris/raw/main/data/music.mp3" type="audio/mpeg">
-</audio> 
+<figure>
+  <font color="white"> 
+  <figcaption>Music Selection:</figcaption>
+  <figcaption>---------------------</figcaption>
+  <figcaption>Korobeiniki/Коробейники:</figcaption>
+  <audio
+      controls loop
+      src="https://github.com/trzyglow/Webtris/raw/main/data/musica.mp3">
+          </a>
+  </audio>
+  <figcaption>Hej, Sokoły/Гей, соколи:</figcaption>
+  <audio
+      controls loop
+      src="https://github.com/trzyglow/Webtris/raw/main/data/musicb.mp3">
+          </a>
+  </audio>
+</font>
+</figure>
+<button onclick="return refresh()">Hard Reset</button>
 </script>
-</body>
+</footer>
 </html>
