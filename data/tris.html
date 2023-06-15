@@ -33,7 +33,6 @@ function refresh(){
 }
 
 // get a random integer between the range of [min,max]
-// @see https://stackoverflow.com/a/1527820/2124254
 function getRandomInt(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
@@ -42,7 +41,6 @@ function getRandomInt(min, max) {
 }
 
 // generate a new tetromino sequence
-// @see https://tetris.fandom.com/wiki/Random_Generator
 function generateSequence() {
   const sequence = ['I', 'J', 'L', 'O', 'S', 'T', 'Z'];
 
@@ -77,7 +75,6 @@ function getNextTetromino() {
 }
 
 // rotate an NxN matrix 90deg
-// @see https://codereview.stackexchange.com/a/186834
 function rotate(matrix) {
   const N = matrix.length - 1;
   const result = matrix.map((row, i) =>
@@ -156,7 +153,7 @@ function showGameOver() {
   context.font = '50px monospace';
   context.textAlign = 'center';
   context.textBaseline = 'middle';
-  context.fillText('GAME OVER!', canvas.width / 2, canvas.height / 2);
+  context.fillText('GAME OVER', canvas.width / 2, canvas.height / 2);
 }
 
 const canvas = document.getElementById('game');
@@ -178,7 +175,6 @@ for (let row = -2; row < 20; row++) {
 }
 
 // how to draw each tetromino
-// @see https://tetris.fandom.com/wiki/SRS
 const tetrominos = {
   'I': [
     [0,0,0,0],
@@ -321,29 +317,40 @@ document.addEventListener('keydown', function(e) {
 rAF = requestAnimationFrame(loop);
 </script>
 </body> 
-<footer>
-</script>
-</audio>
-</body>
-<figure>
-  <font color="white"> 
-  <figcaption>Music Selection:</figcaption>
-  <figcaption>---------------------</figcaption>
-  <figcaption>Korobeiniki/Коробейники:</figcaption>
-  <audio
-      controls loop
-      src="https://github.com/trzyglow/Webtris/raw/main/data/musica.mp3">
-          </a>
-  </audio>
+  <footer>
+  </script>
+    </audio>
+      </body>
+  <figure>
+   <font color="crimson"> 
+     <figcaption>WEBTRIS/ВЕБТРИС (v1.2)</figcaption>
+     <font color="white"> 
+      <figcaption>:::::::::::::::::::::::::::::::::::::::::</figcaption>
+       <figcaption>Music Selection</figcaption>
+       <figcaption>---------------------</figcaption>
+       <figcaption>Korobeiniki/Коробейники:</figcaption>
+        <audio
+           controls loop
+           src="https://github.com/trzyglow/Webtris/raw/main/data/musica.ogg">
+           </a>
+      </audio>
   <figcaption>Hej, Sokoły/Гей, соколи:</figcaption>
   <audio
       controls loop
-      src="https://github.com/trzyglow/Webtris/raw/main/data/musicb.mp3">
+      src="https://github.com/trzyglow/Webtris/raw/main/data/musicb.ogg">
           </a>
   </audio>
-</font>
-</figure>
-<button onclick="return refresh()">Hard Reset</button>
-</script>
-</footer>
-</html>
+  <figcaption>Romanian Folk Dance No.2 - Brâul:</figcaption>
+  <audio
+      controls loop
+      src="https://github.com/trzyglow/Webtris/raw/main/data/musicc.ogg">
+          </a>
+  </audio>
+  </font>
+    </figure>
+
+      <button onclick="return refresh()">Hard Reset</button>
+    
+    </script>
+  </footer>
+  </html>
