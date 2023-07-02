@@ -1,6 +1,8 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - [Webtris (Playable Web-Game)](./data/tris.html)
+    - No touch controls
+    - visuals may break on mobile
 
 - [Webtris (Repo)](https://github.com/trzyglow/Webtris)
 
