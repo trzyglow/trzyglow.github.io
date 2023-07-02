@@ -2,7 +2,9 @@
 ## Featured
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- [Webtris (Game)](./data/tris.html)
+- [Webtris (Playable Web-Game)](./data/tris.html)
+
+- [Webtris (Repo)](https://github.com/trzyglow/Webtris)
 
 - [Open8bitVChiptuner (Repo)](https://github.com/trzyglow/Open8bitVChiptuner)
 
