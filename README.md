@@ -12,5 +12,4 @@
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<link rel="shortcut icon" type="image/x-icon" href="/.data/favicon.ico">
 <link rel="shortcut icon" type="image/png" href="/.data/favicon.png">
