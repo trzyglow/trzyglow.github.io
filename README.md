@@ -1,4 +1,7 @@
-## trzyglow's stuff
+<h1>
+trzyglow's stuff
+</h1>
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - [Webtris (Playable Web-Game)](./data/tris.html)
@@ -11,7 +14,9 @@
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## archiv obscura
+<h1>
+archiv obscura
+</h1>
 
 a little corner dedicated to "web 1.0" things
 
