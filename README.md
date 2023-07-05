@@ -10,8 +10,6 @@ trzyglow's stuff
 
 - [Open8bitVChiptuner (Repo)](https://github.com/trzyglow/Open8bitVChiptuner)
 
-- [2strip (Repo)](https://github.com/trzyglow/2strip)
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <h1>
