@@ -7,6 +7,7 @@ trzyglow's stuff
 - [Webtris (Playable Web-Game)](./data/tris.html)
     - No touch controls
     - visuals may break on mobile
+    - Audio may not work on Safari
 
 - [Open8bitVChiptuner (Repo)](https://github.com/trzyglow/Open8bitVChiptuner)
 
@@ -21,7 +22,7 @@ a little corner dedicated to "web 1.0"-esque things
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 
 - [Zalgo Text Generator](./data/zalgo.html)
-    - written by tchouky in 2009
+    - written by Tchouky in 2009
 
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 
