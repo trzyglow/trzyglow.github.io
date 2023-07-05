@@ -18,7 +18,7 @@ trzyglow's stuff
 archiv obscura
 </h1>
 
-a little corner dedicated to "web 1.0" things
+a little corner dedicated to "web 1.0"-esque things
 
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 
