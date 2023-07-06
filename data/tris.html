@@ -27,6 +27,12 @@
     <canvas width="320" height="640" id="game"></canvas>
 <script>
 
+// Return Button logic
+function trzyglow(){
+  window.top.location ="https://trzyglow.github.io/"
+  return false;
+}
+
 // Refresh Button logic
 function refresh(){
   window.top.location = window.top.location
@@ -367,6 +373,8 @@ rAF = requestAnimationFrame(loop);
     </figure>
 
       <button onclick="return refresh()">Hard Reset</button>
+
+      <button onclick="return trzyglow()">trz</button>
     
     </script>
   </footer>
