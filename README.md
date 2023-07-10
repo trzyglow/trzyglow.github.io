@@ -26,4 +26,5 @@ a little corner dedicated to "web 1.0"-esque things
 
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 
-<link rel="shortcut icon" type="image/x-icon" href="./data/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="./data/favicon.ico" />
+<link rel="apple-touch-icon" sizes="128x128" href="./data/ati.png" />
