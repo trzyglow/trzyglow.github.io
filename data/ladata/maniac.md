@@ -4,7 +4,6 @@
 
 ## Index
 <b>
-<i>
 
 - [Segment 1](#segment-1)
 - [Segment 2](#segment-2)
@@ -17,7 +16,6 @@
 - [Segment 9](#segment-9)
 - [Source](#source)
 
-</i>
 </b>
 
 ___

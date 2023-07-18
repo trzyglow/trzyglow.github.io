@@ -4,7 +4,6 @@
 
 ## Index
 <b>
-<i>
 
 - [Prologue](#prologue)
 - [Colonial Times](#colonial-times)
@@ -20,7 +19,6 @@
 - [Source](#source)
 - [Notes](#notes)
 
-</i>
 </b>
 
 ___

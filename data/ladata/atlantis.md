@@ -4,7 +4,6 @@
 
 ## Index
 <b>
-<i>
 
 - [Legend](#legend)
 - [Part 1](#part-1)
@@ -18,7 +17,6 @@
 - [Credits](#credits)
 - [Notes](#notes)
 
-</i>
 </b>
 
 ___
