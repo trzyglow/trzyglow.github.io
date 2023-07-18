@@ -1,8 +1,10 @@
 # trzyglow's previously-owned guidebooks
 
-<i>A collection of guides of various classic Adventures made by LucasArts/Lucasfilm Games collected from the web.
+<i>A collection of guides of various classic Adventures made by LucasArts/Lucasfilm Games collected from the web.</i>
 
-<b>"But Wait, There's More!..."</i></b>
+<i>
+<b>"But Wait, There's More!..."</b>
+</i>
 
 ## Index
 - Maniac Mansion
