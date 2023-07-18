@@ -3,7 +3,7 @@
 <b>[RETURN TO MAIN INDEX](./lamain.md)</b>
 
 ## Index
-<b>
+
 
 - [Segment 1](#segment-1)
 - [Segment 2](#segment-2)
@@ -16,7 +16,6 @@
 - [Segment 9](#segment-9)
 - [Source](#source)
 
-</b>
 
 ___
 

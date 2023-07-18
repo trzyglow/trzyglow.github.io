@@ -3,7 +3,6 @@
 <b>[RETURN TO MAIN INDEX](./lamain.md)</b>
 
 ## Index
-<b>
 
 - [Legend](#legend)
 - [Part 1](#part-1)
@@ -17,7 +16,6 @@
 - [Credits](#credits)
 - [Notes](#notes)
 
-</b>
 
 ___
 

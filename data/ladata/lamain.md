@@ -5,7 +5,11 @@
 <h3>
 <i>
 <b>"But Wait, There's More!..."</b>
+</i>
+</h3>
 
+<h3>
+<i>
 ~Stan S. Stanman
 </i>
 </h3>

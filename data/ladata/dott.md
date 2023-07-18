@@ -3,7 +3,6 @@
 <b>[RETURN TO MAIN INDEX](./lamain.md)</b>
 
 ## Index
-<b>
 
 - [Prologue](#prologue)
 - [Colonial Times](#colonial-times)
@@ -19,7 +18,6 @@
 - [Source](#source)
 - [Notes](#notes)
 
-</b>
 
 ___
 
