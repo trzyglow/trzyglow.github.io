@@ -24,8 +24,7 @@ archiv obscura
 - [Zalgo Text Generator](./data/zalgo.html)
     - written by Tchouky in 2009
 
-- Trzyglow's Previously-Owned Guidebooks
-    - [COMING SOON]
+- [Trzyglow's Previously-Owned Guidebooks](./data/lamain.md)
 
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 
