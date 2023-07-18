@@ -1,3 +1,21 @@
-# Trzyglow's Previously-Owned Guidebooks
+# trzyglow's previously-owned guidebooks
 
-![WORK IN PROGRESS](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flibreadvice.org%2Fwp-content%2Fuploads%2F2020%2F04%2Fwip.png&f=1&nofb=1&ipt=6536e6e6ee2ff197c6ef085f2ea349f7ee95a403244cca2a0e92f893437064aa&ipo=images)
+<i>A collection of guides of various classic Adventures made by LucasArts/Lucasfilm Games collected from the web.
+
+<b>"But Wait, There's More!..."</i></b>
+
+## Index
+- Maniac Mansion
+    - [Walkthrough](./maniac.md)
+
+- Day of the Tentacle
+    - [Walkthrough](./dott.md)
+
+- Indiana Jones and the Fate of Atlantis
+    - [Walkthrough](./atlantis.md)
+
+___
+More will be added in the future.
+
+<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/trzyglow/trzyglow.github.io/main/data/favicon.ico" />
+<link rel="apple-touch-icon" sizes="128x128" href="https://raw.githubusercontent.com/trzyglow/trzyglow.github.io/main/data/ati.png" />
