@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Grog](GrogVM.png)
+![Grog](./GrogVM.png)
 
 </div>
 
