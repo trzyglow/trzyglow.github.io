@@ -24,7 +24,6 @@
 - Indiana Jones and the Fate of Atlantis
     - [Walkthrough](./atlantis.md)
 
-![Grog](./GrogVM.png)
 
 ___
 More will be added in the future.
