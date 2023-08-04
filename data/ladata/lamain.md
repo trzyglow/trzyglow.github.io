@@ -2,18 +2,6 @@
 
 <i>A collection of guides of various classic Adventures made by LucasArts/Lucasfilm Games collected from the web.</i>
 
-<h3>
-<i>
-<b>"But Wait, There's More!..."</b>
-</i>
-</h3>
-
-<h3>
-<i>
-~Stan S. Stanman
-</i>
-</h3>
-
 ## Index
 - Maniac Mansion
     - [Walkthrough](./maniac.md)
