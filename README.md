@@ -24,7 +24,7 @@ archiv obscura
 - [Zalgo Text Generator](./data/zalgo.html)
     - written by Tchouky in 2009
 
-- [Coming Soon]()
+- [Coming Soon](./data/404.md)
 
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
 
