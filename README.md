@@ -9,7 +9,7 @@ trzyglow's stuff
     - Visuals may break on mobile
     - Audio may not work on Safari
 
-- [Open8bitVChiptuner (Repo) {external}](https://github.com/trzyglow/Open8bitVChiptuner)
+- <a href="https://github.com/trzyglow/Open8bitVChiptuner" target="_blank">Open8bitVChiptuner (Repo) {external}</a>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
