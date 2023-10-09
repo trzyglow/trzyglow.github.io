@@ -9,7 +9,7 @@ trzyglow's stuff
     - Visuals may break on mobile
     - Audio may not work on Safari
 
-- <a href="https://github.com/trzyglow/Open8bitVChiptuner" target="_blank">Open8bitVChiptuner (Repo) {external}</a>
+- <a href="https://github.com/trzyglow/Open8bitVChiptuner" target="_blank">Open8bitVChiptuner *</a>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -27,6 +27,10 @@ archiv obscura
 - [Coming Soon](./data/404.md)
 
 :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
+
+<span style="color:lightgrey">
+<i>* External URL</i>
+</span>
 
 <link rel="shortcut icon" type="image/x-icon" href="./data/favicon.ico" />
 <link rel="apple-touch-icon" sizes="128x128" href="./data/ati.png" />
