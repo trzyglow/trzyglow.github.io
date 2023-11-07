@@ -1,6 +1,0 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: trzyglow's lair
-logo: /data/logo.png
-description: Welcome to the Bone-zone!
