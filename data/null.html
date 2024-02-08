@@ -21,7 +21,11 @@
  color: white;
  @font-face
  {font-family: VT323;
-	src: url('./data/fnt/VT323-Regular.ttf') format('truetype');
+	src:
+	url('./fnt/VT323-Regular.ttf') format('truetype'),
+	url('./fnt/VT323-Regular_conv.otf') format("opentype"),
+	url('./fnt/VT323-Regular_conv.woff') format("woff"),
+	url('./fnt/VT323-Regular_conv.woff2') format("woff2");
 }
  }
  body {
