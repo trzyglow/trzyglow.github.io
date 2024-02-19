@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>neat websites</title>
+	<title>neat websites - page 1</title>
 	<meta name="robots" content="noindex,nofollow" />
 	<meta property="og:image" content="./data/socialprev.png">
 	<meta property="og:image:type" content="image/png">
@@ -16,7 +16,15 @@
 </head>
 <script>
 	function home(){
-	  window.top.location ="https://trzyglow.github.io/"
+	  window.top.location ="./index.html"
+	  return false;
+	}
+	  function back(){
+	  window.top.location ="./neat.html"
+	  return false;
+	  }
+	  function forwrd(){
+	  window.top.location ="./neat2.html"
 	  return false;
 	}
 </script>
@@ -34,7 +42,15 @@
 	<h2><a href="https://soulsphere.org/hacks/slige/" target="_blank">Automatic SLIGE megawad</a></h2>
 	<h2><a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a></h2>
 	<h2><a href="https://tosdr.org/" target="_blank">ToS;DR</a></h2>
+	<h2><a href="https://wiby.me/" target="_blank">Wiby</a></h2>
 	<p>:::::::::::::::::::::::::::::::::::</p>
+	<div>
+		<!--
+				<button onclick="return back()"><-</button>
+		-->
+				<button onclick="return forwrd()">-></button>
+	</div>
+
 	<span style="color:#444444;">
 	<em>
 	<p>All entries are external URLs;</p>
@@ -42,9 +58,11 @@
 	<p>the listed pages or organizations.</p>
 	</em>
 	</span>
+
 	<div>
-	<button onclick="return home()">Return to "Home"</button>
-		</div>
+		<button onclick="return home()">Return to "Home"</button>
+	</div>
+
 </body>
 <!--
                                   ╔═╗           
