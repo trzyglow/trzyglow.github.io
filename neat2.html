@@ -23,10 +23,18 @@
 	  function back(){
 	  window.top.location ="./neat.html"
 	  return false;
-	  }
+	}
 	  function forwrd(){
 	  window.top.location ="./neat3.html"
 	  return false;
+	}
+	 function fasback(){
+	 window.top.location ="./neat.html"
+	 return false;
+	}
+	 function fasforwrd(){
+	 window.top.location ="./neat5.html"
+	 return false;
 	}
 </script>
 
@@ -46,8 +54,10 @@
 	<h2><a href="https://www.europeana.eu/" target="_blank">Europeana</a></h2>
 	<p>:::::::::::::::::::::::::::::::::::::::::</p>
 	<div>
+				<button onclick="return fasback()"><<</button>
 				<button onclick="return back()"><-</button>
 				<button onclick="return forwrd()">-></button>
+				<button onclick="return fasforwrd()">>></button>
 	</div>
 
 	<span style="color:#444444;">
