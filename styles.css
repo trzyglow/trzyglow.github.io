@@ -17,12 +17,13 @@ body {
     justify-content: center;
     font-family: 'Cutive Mono', monospace;
 }
+
 a:link {
     color: white;
-  }
-  a:visited {
+}
+a:visited {
     color: white;
-  }
+}
 
 h1 {
     font-size: 4.8vh;
