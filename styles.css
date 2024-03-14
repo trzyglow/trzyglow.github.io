@@ -25,6 +25,14 @@ a:visited {
     color: white;
 }
 
+a:active {
+    color: white;
+}
+
+a:any-link {
+    color: white;
+}
+
 h1 {
     font-size: 4.8vh;
 }
