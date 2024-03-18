@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Cutive Mono';
+    src: url('./data/font/CutiveMono-Regular.ttf') format('truetype');
+   }
+
+body {
+    background-color: #030303;
+    color: white;
+    color-scheme: dark;
+    font-family: 'Cutive Mono', monospace;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    text-decoration: none;
+}
+
+a:any-link {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A3A3A3;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 4.8vh;
+}
+
+h2 {
+    font-size: 2.5vh;
+}
+
+p {
+    font-size: 1.8vh;
+}
