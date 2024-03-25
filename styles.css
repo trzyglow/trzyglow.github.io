@@ -7,15 +7,12 @@ body {
     background-color: #030303;
     color: white;
     color-scheme: dark;
-    scale: auto;
-    height: auto;
+    font-family: 'Cutive Mono', monospace;
+    max-width: max-content;
     margin: auto;
+    scale: auto;
     overflow-y: auto;
     overflow-x: auto;
-    display: table;
-    align-items: left;
-    justify-content: center;
-    font-family: 'Cutive Mono', monospace;
 }
 
 a:link {
@@ -43,13 +40,13 @@ a:hover {
 }
 
 h1 {
-    font-size: 4.8vh;
+    font-size: 4.0vh;
 }
 
 h2 {
-    font-size: 2.5vh;
+    font-size: 2vh;
 }
 
 p {
-    font-size: 1.8vh;
+    font-size: 1.4vh;
 }
