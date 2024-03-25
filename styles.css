@@ -13,6 +13,8 @@ body {
     scale: auto;
     overflow-y: auto;
     overflow-x: auto;
+    text-align: left;
+    line-height: 1.7vh;
 }
 
 a:link {
