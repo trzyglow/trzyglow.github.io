@@ -39,6 +39,7 @@ a:any-link {
 
 a:hover {
     color: #A3A3A3;
+    text-decoration: none;
 }
 
 h1 {
