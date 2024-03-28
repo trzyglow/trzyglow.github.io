@@ -14,7 +14,8 @@ body {
     overflow-y: auto;
     overflow-x: auto;
     text-align: left;
-    line-height: 1.7vh;
+    padding-top: 7vh;
+    padding-bottom: 1vh;
 }
 
 a:link {
@@ -38,17 +39,20 @@ a:any-link {
 
 a:hover {
     color: #A3A3A3;
-    text-decoration: none;
 }
 
 h1 {
     font-size: 3.8vh;
+    text-decoration: underline;
+    line-height: 5vh;
 }
 
 h2 {
     font-size: 2vh;
+    line-height: 3vh;
 }
 
 p {
     font-size: 1.4vh;
+    line-height: 1.4vh;
 }
