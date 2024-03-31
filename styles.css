@@ -8,14 +8,12 @@ body {
     color: white;
     color-scheme: dark;
     font-family: 'Cutive Mono', monospace;
-    max-width: max-content;
+    max-width: fit-content;
     margin: auto;
-    scale: auto;
+    scale: 1;
     overflow-y: auto;
     overflow-x: auto;
     text-align: left;
-    padding-top: 7vh;
-    padding-bottom: 1vh;
 }
 
 a:link {
