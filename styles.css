@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Cutive Mono';
     src: url('./data/font/CutiveMono-Regular.ttf') format('truetype');
-   }
+}
 
 body {
     background-color: #030303;
