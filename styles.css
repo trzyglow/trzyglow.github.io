@@ -55,3 +55,11 @@ p {
     font-size: 1.4vh;
     line-height: 1.4vh;
 }
+
+details > summary {
+    color:#999999;
+    font-size: 1.4vh;
+    font-style:italic;
+    font-weight: bold;
+    cursor: pointer;
+}
