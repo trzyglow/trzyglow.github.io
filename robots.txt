@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /
-Allow: /data/
 
 User-agent: AdsBot-Google-Mobile
 Disallow: /
