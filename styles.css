@@ -3,6 +3,11 @@
     src: url('./data/font/CutiveMono-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('./data/font/RobotoSlab-VariableFont_wght.ttf') format('truetype');
+}
+
 body {
     background-color: black;
     color: white;
