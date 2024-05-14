@@ -68,3 +68,8 @@ details > summary {
     font-weight: bold;
     cursor: pointer;
 }
+
+footer {
+    text-align: center;
+    background-color: #0D0D0D;
+}
