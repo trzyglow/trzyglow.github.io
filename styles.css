@@ -49,3 +49,9 @@ footer {
     text-align: center;
     background-color: #0D0D0D;
 }
+
+header {
+    font-weight: bold;
+    text-align: center;
+    background-color: #6F0000;
+}
