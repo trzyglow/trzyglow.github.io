@@ -7,4 +7,4 @@
 /* SITE */
     Language: English
     Standards: HTML5, CSS3, UTF-8
-    Software: VSCodium
+    Software: VSCodium, Inkscape, Paint.NET, go-png2ico
