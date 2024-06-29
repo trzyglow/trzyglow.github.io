@@ -1,7 +1,6 @@
 /* TEAM */
     Author: Timo Heidutzek
     Mastodon: @trzyglow@mastodon.social
-    Bluesky: @trzyglow.bsky.social
     Location: Hamburg, Germany
 
 /* SITE */
