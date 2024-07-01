@@ -5,5 +5,5 @@
 
 /* SITE */
     Language: English
-    Standards: HTML5, CSS3, UTF-8
+    Standards: HTML5, CSS3, UTF-8, CRLF
     Software: VSCodium, Inkscape, Paint.NET, go-png2ico
