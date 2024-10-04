@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20mm" height="20mm" version="1.1" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m0 0v20h20v-20h-20z" fill="#fff" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <g transform="matrix(.95001 0 0 .95001 .5 .5)">
+  <path d="m0 0v20h20v-20z" fill="#da291c" stroke-width=".5" style="paint-order:fill markers stroke"/>
+  <path d="m8.0005 4v4h-4.0005v4h4.0005v4h4.0005v-4h3.999v-4h-3.999v-4z" fill="#fff" stroke-width=".61181" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

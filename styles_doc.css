@@ -1,0 +1,143 @@
+@font-face {
+    font-family: "Playfair Display";
+    src: url(./data/fonts/PlayfairDisplay-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(./data/fonts/PlayfairDisplay-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(./data/fonts/PlayfairDisplay-SemiBold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Playfair Display";
+    src: url(./data/fonts/PlayfairDisplay-SemiBoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Nimbus Sans L";
+    src: url(./data/fonts/NimbusSanL-Reg.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Nimbus Sans L";
+    src: url(./data/fonts/NimbusSanL-RegIta.otf);
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Nimbus Sans L";
+    src: url(./data/fonts/NimbusSanL-Bol.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Nimbus Sans L";
+    src: url(./data/fonts/NimbusSanL-BolIta.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+body {
+    background-color: #040404;
+    color: #D3DDEB;
+    color-scheme: dark;
+    font-family: "Nimbus Sans L", sans-serif;
+    font-kerning: calc(+);
+    font-weight: normal;
+    font-size: 1.1rem;
+    overflow-wrap: break-word;
+    max-width: 100ch;
+    margin-left: auto;
+    margin-right: auto;
+    scale: 1;
+    overflow-y: auto;
+    overflow-x: auto;
+    text-align: left;
+}
+
+.button {
+    width: 1.5rem;
+    vertical-align: middle;
+}
+.button:hover {
+    width: 1.5rem;
+    vertical-align: middle;
+    filter: brightness(60%);
+}
+
+.txtimg {
+    height: 0.7rem;
+    vertical-align: baseline;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 3rem;
+    text-decoration: underline;
+    font-family: "Playfair Display", serif;
+}
+
+a:link {
+    color: #EAF5FF;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:visited {
+    color: #EAF5FF;
+    text-decoration: none;
+}
+
+a:active {
+    color: #EAF5FF;
+    text-decoration: none;
+}
+
+a:any-link {
+    color: #EAF5FF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9B9FAD;
+    text-decoration: none;
+}
+
+details > summary {
+    color: #9B9FAD;
+    font-weight: bold;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+footer {
+    font-weight: normal;
+    text-align: center;
+    background-color: #060606;
+    font-size: 1rem;
+}
+
+header {
+    font-weight: normal;
+    text-align: center;
+    background-color: #060606;
+    font-size: 1rem;
+}
+
+hr {
+    color: #A7A7A7;
+    border: none;
+    border-top: ridge #9B9FAD;
+}

@@ -1,0 +1,30 @@
+{
+    "name": "T's Page",
+    "icons": [
+    {
+        "src": "./data/favicon.svg",
+        "sizes": "any"
+    },
+
+    {
+        "src": "./data/favicon.ico",
+        "sizes": "16x16 32x32"
+    },
+
+    {
+        "src": "./data/ati.png",
+        "sizes": "180x180"
+    },
+
+    {
+        "purpose": "maskable",
+        "sizes": "512x512",
+        "src": "./data/mobile-generic-512.png",
+        "type": "image/png"
+    }
+],
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "display": "minimal-ui",
+    "start_url": "./index.html"
+}

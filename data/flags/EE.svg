@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20mm" height="20mm" version="1.1" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m9.35e-5 9.35e-5v20h20v-20z" fill="#fff" stroke-width=".5" style="paint-order:fill markers stroke"/>
+ <path d="m0.49991 0.5v6.3335h19v-6.3335z" fill="#0072ce" stroke-width="1.2558" style="paint-order:fill markers stroke"/>
+ <path d="m0.49991 6.8327v6.334h19v-6.334z" stroke-width="1.2558" style="paint-order:fill markers stroke"/>
+</svg>
